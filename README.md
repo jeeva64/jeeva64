@@ -4,7 +4,7 @@
 - 📫 How to reach me <br/>
 
 [<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" />](https://www.linkedin.com/in/jeeva-l/)
-[<img width="48" height="48" src="https://img.icons8.com/color/48/twitterx--v1.png" alt="twitterx"/>](https://twitter.com) 
+[<img width="48" height="48" src="https://img.icons8.com/color/48/twitterx--v1.png" alt="twitterx"/>](https://twitter.com/JEEVALOGU6) 
 
 ### Tech Stack
 #### Programming Languages

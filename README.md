@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Jeeva Loganathan<br/>
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Data Structures and Algorithm.
 - 📫 How to reach me <br/>
 
@@ -16,4 +16,4 @@
 #### Back-End Technology
 <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jeevajeevaloganathan977?theme=dark&font=Ubuntu&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jeevaloganathan?theme=dark&font=Ubuntu&ext=heatmap)

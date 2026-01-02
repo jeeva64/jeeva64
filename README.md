@@ -71,7 +71,7 @@
 
 ---
 
-![GitHub contribution snake](dist/github-contribution-grid-snake.gif)
+![GitHub contribution snake](https://raw.githubusercontent.com/jeeva64/jeeva64/master/dist/github-contribution-grid-snake.gif)
 
 ---
 

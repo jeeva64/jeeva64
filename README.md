@@ -32,39 +32,15 @@
 ---
 
 
-### Tech Stack
-#### Programming Languages
-<p>
-  <img height="45" width="45" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img height="45" width="45" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img height="45" width="45" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-</p>
+### 🛠️ Tech Stack
 
-#### Backend & Database
-<p>
-  <img height="45" width="45" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="Django" />
-  <img height="45" width="45" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-</p>
-
-#### Frontend 
-<p>
-  <img height="45" width="45" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-  <img height="45" width="45" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  <img height="45" width="45" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
-  <img height="45" width="45" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" />
-</p>
-
-#### AI/ML
-<p>
-  <img height="45" width="45" src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" />
-  <img height="45" width="45" src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" />
-  <!-- <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" /> -->
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" alt="Matplotlib" />
-</p>
-
-
-#### Tools & Platforms
-<img height="45" width="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> <img height="45" width="45" src="https://img.icons8.com/color/48/git.png"/> <img height="45" width="45" src="https://img.icons8.com/color/48/github.png"/> <img height="45" width="45" src="https://img.icons8.com/color/48/vercel.png"/> <img height="45" width="45" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" />
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | <img height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /> |
+| **Backend & Database** | <img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="Django" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" /> |
+| **Frontend** | <img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" /> |
+| **AI / ML** | <img height="40" width="40" src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" /> &nbsp; ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) |
+| **Tools & Platforms** | <img height="40" width="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/git.png" alt="Git" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/github.png" alt="GitHub" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/vercel.png" alt="Vercel" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" /> |
 
 ---
 

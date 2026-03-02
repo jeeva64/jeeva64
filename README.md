@@ -26,7 +26,7 @@
 - ⚙️ Passionate about **Backend Development** using *Python, Django & MySQL*
 - 🤖 Exploring **Machine Learning** - clustering, classification, and real-world AI applications
 - 🧩 Created **[Aidcare](https://aidcare.vercel.app/)** - a full-stack donation platform connecting donors with orphanages
-- 📚 Solved **250+ problems** on [LeetCode](https://leetcode.com/jeevaloganathan/)  | **10+ contests** | Rating: **1372** | 🏅 **200 Days**, **100 Days** & **50 Days** Badges
+- 📚 Solved **280+ problems** on [LeetCode](https://leetcode.com/jeevaloganathan/)  | **20+ contests** | Rating: **1370+** | 🏅 **200 Days**, **100 Days** & **50 Days** Badges
 - 🎯 Passionate about writing **clean, secure, and maintainable code**
 
 ---
@@ -45,19 +45,52 @@
 ---
 
 ### 📈 GitHub Stats
-<!--<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jeeva64&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jeeva64&theme=tokyonight&hide_border=true" />
-</p>-->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeeva64&theme=tokyo-night" width="100%" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeeva64&theme=2077"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeeva64&theme=2077"
+    width="48%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeeva64&theme=2077"
+    width="48%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jeeva64&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
 </p>
 
 ---
 
 ### 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/jeevaloganathan?theme=dark&font=Ubuntu&ext=heatmap)
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img
+        src="https://leetcard.jacoblin.cool/jeevaloganathan?theme=dark&font=Ubuntu&ext=heatmap"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img
+        src="https://leetcard.jacoblin.cool/jeevaloganathan?theme=dark&font=Ubuntu&ext=contest"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 

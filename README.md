@@ -23,11 +23,11 @@
 
 ### 🧠 About Me
 - 💻 Pursuing **M.Sc. in Artificial Intelligence** at St. Joseph’s College (Autonomous), Tiruchirappalli 
-- ⚙️ Passionate about **Backend Development** using *Python, Django & MySQL*
-- 🤖 Exploring **Machine Learning** - clustering, classification, and real-world AI applications
+- ⚙️ Passionate about **Backend Development** using *Python, Django & MySQL*.
+- 🤖 Exploring **Machine Learning** - clustering, classification, and real-world AI applications.
 - 🧩 Created **[Aidcare](https://aidcare.vercel.app/)** - a full-stack donation platform connecting donors with orphanages
-- 📚 Solved **280+ problems** on [LeetCode](https://leetcode.com/jeevaloganathan/)  | **20+ contests** | Rating: **1350+** | 🏅 **200 Days**, **100 Days** & **50 Days** Badges
-- 🎯 Passionate about writing **clean, secure, and maintainable code**
+- 📚 Solved **300+ problems** on [LeetCode](https://leetcode.com/jeevaloganathan/)  | **25+ contests** | Rating: **1350+** | 🏅**365 Days**, **200 Days**, **100 Days** & **50 Days** Badges.
+- 🎯 Passionate about writing **clean, secure, and maintainable code**.
 
 ---
 

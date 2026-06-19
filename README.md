@@ -1,11 +1,10 @@
 <!-- Greeting -->
 <h1 align="center">Hey there, I'm Jeeva Loganathan 👋</h1>
-<h3 align="center">Backend Engineer • AI/ML Enthusiast • Problem Solver</h3>
+<h3 align="center">AI/ML Engineer • MLOps Enthusiast • Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3ABEFE&center=true&vCenter=true&width=700&lines=Building+secure+and+scalable+backends;Learning+to+apply+Artificial+Intelligence+in+real-world+projects;Lifelong+learner+%26+problem+solver">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3ABEFE&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications;Developing+production-ready+Machine+Learning+systems;Exploring+MLOps+and+Cloud+Deployment;Backend+Engineering+with+FastAPI+and+PostgreSQL;Lifelong+Learner+and+Problem+Solver">
 </p>
-
 
 <!-- Profile Views -->
 <p align="center">
@@ -20,29 +19,94 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-
 ### 🧠 About Me
-- 💻 Pursuing **M.Sc. in Artificial Intelligence** at St. Joseph’s College (Autonomous), Tiruchirappalli 
-- ⚙️ Passionate about **Backend Development** using *Python, Django & MySQL*.
-- 🤖 Exploring **Machine Learning** - clustering, classification, and real-world AI applications.
-- 🧩 Created **[Aidcare](https://aidcare.vercel.app/)** - a full-stack donation platform connecting donors with orphanages
-- 📚 Solved **300+ problems** on [LeetCode](https://leetcode.com/jeevaloganathan/)  | **25+ contests** | Rating: **1350+** | 🏅**365 Days**, **200 Days**, **100 Days** & **50 Days** Badges.
-- 🎯 Passionate about writing **clean, secure, and maintainable code**.
+
+- 🎓 Pursuing **M.Sc. Artificial Intelligence** at St. Joseph's College (Autonomous), Tiruchirappalli (CGPA: 8.89/10)
+- 🤖 Aspiring **AI/ML Engineer** focused on building real-world machine learning systems and intelligent applications
+- 🚀 Completed an **AI/ML Internship at VDart Academy**, where I developed a production-ready AutoML platform using FastAPI, PostgreSQL, Scikit-learn, and XGBoost
+- ⚙️ Interested in **Machine Learning, MLOps, Backend Engineering, and AI System Design**
+- 🏗️ Building expertise in model training pipelines, data preprocessing, deployment, experiment tracking, and cloud-native ML workflows
+- 🌐 Led deployment and infrastructure management for the **AION 2K26 Symposium Platform**, serving 130+ registrations
+- 📚 Solved **300+ problems** on [LeetCode](https://leetcode.com/jeevaloganathan/) | **1370+ Contest Rating** | 🏅 **365 Days Consistency Badge**
+- 🎯 Goal: Become an **AI/ML Engineer** specializing in scalable ML systems, MLOps, and backend infrastructure
 
 ---
 
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
+<table width="110%" style="margin-left:-5%;">
+  <tr>
+    <th align="left" width="35%">
+      Category
+    </th>
+    <th align="left" width="65%">
+      Technologies
+    </th>
+  </tr>
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | <img height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png" alt="Python" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" /> |
-| **Backend & Database** | <img height="40" width="40" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="Django" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" /> |
-| **Frontend** | <img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" /> |
-| **AI / ML** | <img height="40" width="40" src="https://img.icons8.com/color/48/numpy.png" alt="NumPy" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/pandas.png" alt="Pandas" /> &nbsp; ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) |
-| **Tools & Platforms** | <img height="40" width="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/git.png" alt="Git" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/github.png" alt="GitHub" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/vercel.png" alt="Vercel" /> &nbsp; <img height="40" width="40" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" /> |
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+    </td>
+  </tr>
 
----
+  <tr>
+    <td><b>AI & Machine Learning</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+      <img src="https://xgboost.ai/images/logo/xgboost-logo.png" width="50"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Data Analytics & Visualization</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+      <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="50"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Backend Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Database Technologies</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Cloud, DevOps & Deployment</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,vercel,firebase,render" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Frontend Technologies</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Development Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+    </td>
+  </tr>
+</table>
+ 
+----
+
 
 ### 📈 GitHub Stats
 
@@ -116,10 +180,6 @@
   &nbsp;
   <a href="https://leetcode.com/jeevaloganathan/" target="_blank">
     <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/jeeva_loganathan5106/" target="_blank">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" />
   </a>
   &nbsp;
   <a href="mailto:jeevajeevaloganathan977@gmail.com" target="_blank">

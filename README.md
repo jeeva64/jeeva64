@@ -54,7 +54,6 @@
   <tr>
     <td><b>AI & Machine Learning</b></td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
       <img src="https://xgboost.ai/images/logo/xgboost-logo.png" width="50"/>
     </td>

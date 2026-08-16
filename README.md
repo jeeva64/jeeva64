@@ -1,9 +1,9 @@
 <!-- Greeting -->
 <h1 align="center">Hey there, I'm Jeeva Loganathan 👋</h1>
-<h3 align="center">AI/ML Engineer • MLOps Enthusiast • Backend Engineer</h3>
+<h3 align="center">AI Developer • ML Engineer • Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3ABEFE&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications;Developing+production-ready+Machine+Learning+systems;Exploring+MLOps+and+Cloud+Deployment;Backend+Engineering+with+FastAPI+and+PostgreSQL;Lifelong+Learner+and+Problem+Solver">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3ABEFE&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications;Developing+production-ready+Machine+Learning+systems;Backend+Engineering+with+FastAPI+and+PostgreSQL;Lifelong+Learner+and+Problem+Solver">
 </p>
 
 <!-- Profile Views -->
@@ -19,16 +19,27 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-### 🧠 About Me
+## 🎯 About Me
 
-- 🎓 Pursuing **M.Sc. Artificial Intelligence** at St. Joseph's College (Autonomous), Tiruchirappalli (CGPA: 8.89/10)
-- 🤖 Aspiring **AI/ML Engineer** focused on building real-world machine learning systems and intelligent applications
-- 🚀 Completed an **AI/ML Internship at VDart Academy**, where I developed a production-ready AutoML platform using FastAPI, PostgreSQL, Scikit-learn, and XGBoost
-- ⚙️ Interested in **Machine Learning, MLOps, Backend Engineering, and AI System Design**
-- 🏗️ Building expertise in model training pipelines, data preprocessing, deployment, experiment tracking, and cloud-native ML workflows
-- 🌐 Led deployment and infrastructure management for the **AION 2K26 Symposium Platform**, serving 130+ registrations
-- 📚 Solved **300+ problems** on [LeetCode](https://leetcode.com/jeevaloganathan/) | **1370+ Contest Rating** | 🏅 **365 Days Consistency Badge**
-- 🎯 Goal: Become an **AI/ML Engineer** specializing in scalable ML systems, MLOps, and backend infrastructure
+I'm an **AI/ML Engineer** pursuing my **Master's in Artificial Intelligence** at St. Joseph's College, building production machine learning systems and intelligent applications.
+
+**What I Do:**
+- 🔧 **Build ML systems** : from data preprocessing to model training, evaluation, and deployment.
+- 💻 **Engineer Full-stack applications** : FastAPI backends, React frontends, PostgreSQL + MongoDB databases.
+- 🚀 **Deploy and scale** : Render/Vercel deployment, real-world infrastructure.
+- 🧠 **Solve problems** : 300+ LeetCode problems, algorithmic thinking, system design.
+
+**Recent Work:**
+- **VDart Academy Internship** : Developed a production Educational AutoML platform automating ML workflows (FastAPI, PostgreSQL, Scikit-learn, XGBoost).
+- **AION 2K26** : Built a full-stack symposium platform handling 130+ real registrations (React, Node.js, MongoDB, deployed).
+
+**Academic Excellence:**
+- 🎓 **M.Sc. Artificial Intelligence:** CGPA 8.89/10
+- 🎓 **B.Sc. Computer Science:** CGPA 8.38/10
+- 🏆 **LeetCode:** 300+ problems | 1370+ contest rating | 365-day consistency
+
+**Currently Exploring:**
+Large Language Models, Generative AI, RAG systems, and production ML deployment patterns
 
 ---
 
@@ -163,6 +174,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeeva64/jeeva64/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jeeva64/jeeva64/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+## 🏆 Achievements
+
+| **Achievement** | **Details** |
+|---|---|
+| **LeetCode** | 300+ problems solved • 1370+ contest rating • 365-day consistency badge |
+| **Academic Excellence** | Outstanding Performer (B.Sc.) • Top 5% across 5 semesters |
+| **Technical Competitions** | 12 wins at intercollegiate symposiums (debugging, DSA, optimization) |
+| **Production Systems** | Shipped 2 production applications serving real users at scale |
 
 ---
 

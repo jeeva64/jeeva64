@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/jeeva-l/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/jeeva64/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://jeeva-dev.web.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firebase&logoColor=yellow" /></a>
-  <a href="mailto:jeevajeevaloganathan977@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:jeevalogu64@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -203,7 +203,7 @@ Large Language Models, Generative AI, RAG systems, and production ML deployment 
     <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" />
   </a>
   &nbsp;
-  <a href="mailto:jeevajeevaloganathan977@gmail.com" target="_blank">
+  <a href="mailto:jeevalogu64@gmail.com" target="_blank">
     <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="Email" />
   </a>
 </p>

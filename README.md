@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeeva64&style=for-the-badge&color=blue" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/jeeva-l/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/jeevaloganathan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/jeeva64/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://jeeva-dev.web.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firebase&logoColor=yellow" /></a>
   <a href="mailto:jeevajeevaloganathan977@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -153,13 +153,13 @@ Large Language Models, Generative AI, RAG systems, and production ML deployment 
   <tr>
     <td width="50%" align="center" valign="top">
       <img
-        src="https://leetcard.jacoblin.cool/jeevaloganathan?theme=dark&font=Ubuntu&ext=heatmap"
+        src="https://leetcard.jacoblin.cool/jeeva64?theme=dark&font=Ubuntu&ext=heatmap"
         width="100%"
       />
     </td>
     <td width="50%" align="center" valign="top">
       <img
-        src="https://leetcard.jacoblin.cool/jeevaloganathan?theme=dark&font=Ubuntu&ext=contest"
+        src="https://leetcard.jacoblin.cool/jeeva64?theme=dark&font=Ubuntu&ext=contest"
         width="100%"
       />
     </td>
@@ -199,7 +199,7 @@ Large Language Models, Generative AI, RAG systems, and production ML deployment 
     <img width="48" height="48" src="https://img.icons8.com/color/48/twitterx--v1.png" alt="Twitter/X" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/jeevaloganathan/" target="_blank">
+  <a href="https://leetcode.com/jeeva64/" target="_blank">
     <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" />
   </a>
   &nbsp;

@@ -30,8 +30,8 @@ I'm an **AI/ML Engineer** pursuing my **Master's in Artificial Intelligence** at
 - 🧠 **Solve problems** : 300+ LeetCode problems, algorithmic thinking, system design.
 
 **Recent Work:**
-- **VDart Academy Internship** : Developed a production Educational AutoML platform automating ML workflows (FastAPI, PostgreSQL, Scikit-learn, XGBoost).
-- **AION 2K26** : Built a full-stack symposium platform handling 130+ real registrations (React, Node.js, MongoDB, deployed).
+- **VDart Academy Internship** : Developed a production Educational AutoML platform automating ML workflows (FastAPI, PostgreSQL, Scikit learn, XGBoost).
+- **AION 2K26** : Built a full stack symposium platform handling 130+ real registrations (React, Node.js, MongoDB deployed).
 
 **Academic Excellence:**
 - 🎓 **M.Sc. Artificial Intelligence:** CGPA 8.89/10
@@ -40,7 +40,7 @@ I'm an **AI/ML Engineer** pursuing my **Master's in Artificial Intelligence** at
 - 🥇 **AIxcelerate 2K26 Hackathon:** Overall Champion
 
 **Currently Exploring:**
-Large Language Models, Generative AI, RAG systems, and production ML deployment patterns
+Large Language Models, Generative AI, RAG systems and production ML deployment patterns
 
 ---
 

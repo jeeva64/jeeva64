@@ -36,7 +36,8 @@ I'm an **AI/ML Engineer** pursuing my **Master's in Artificial Intelligence** at
 **Academic Excellence:**
 - 🎓 **M.Sc. Artificial Intelligence:** CGPA 8.89/10
 - 🎓 **B.Sc. Computer Science:** CGPA 8.38/10
-- 🏆 **LeetCode:** 300+ problems | 1370+ contest rating | 365-day consistency
+- 🏆 **LeetCode:** 400+ problems | 1370+ contest rating | 500 day consistency badge 
+- 🥇 **AIxcelerate 2K26 Hackathon:** Overall Champion
 
 **Currently Exploring:**
 Large Language Models, Generative AI, RAG systems, and production ML deployment patterns

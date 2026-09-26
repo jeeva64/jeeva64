@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer • Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3ABEFE&center=true&vCenter=true&width=800&lines=Building+AI powered+applications;Developing+production ready+Machine+Learning+systems;Backend+Engineering+with+FastAPI+and+PostgreSQL;Lifelong+Learner+and+Problem+Solver">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3ABEFE&center=true&vCenter=true&width=800&lines=Building+AI-powered+applications;Developing+production-ready+Machine+Learning+systems;Backend+Engineering+with+FastAPI+and+PostgreSQL;Lifelong+Learner+and+Problem+Solver">
 </p>
 
 <!-- Profile Views -->
